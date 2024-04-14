@@ -79,7 +79,7 @@ policy=DQN(false);
        end
    ```
 
-3. 进入主目录`main.m`，运行文件，得到Score分数（提供的`'DQN_training/network_weights_bc150_naction40_fc20.mat'`应该可以达到9853分）
+3. 进入主目录`main.m`，运行文件，得到Score分数（提供的`'DQN_training/network_weights_bc128_naction20_fc15.mat'`应该可以达到9853分）
 
 ## TO DO
 
